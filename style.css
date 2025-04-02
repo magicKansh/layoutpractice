@@ -1,0 +1,79 @@
+.title {
+    width: 100 px;
+    height: 10000 px;
+    background-color: gray;
+    margin: 100 px;
+    text-align: center;
+    font-size: 140px;
+    font: Arial;
+}
+
+.box {
+    align-items: end;
+    margin: 100px;
+    width: 500px;
+    height: 450px;
+    background-color: gray;
+    display: inline-block;
+}
+
+.style {
+    display: inline-block;
+}
+
+.square {
+    height: 40px;
+    width: 30px;
+    display: inline-block;
+}
+
+.sidenav {
+    height: auto;
+    width: 20%;
+    margin: 5px;
+    background-color: gray;
+    flex: 2;
+    align-self: right;
+    float: right;
+    align-self: auto;
+    float: top;
+}
+
+.tinysquare {
+    height: 40px;
+    width: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.text {
+    text-align: left;
+    font-size: 25px;
+    color: gray;
+}
+
+.stuff {
+    height: auto;
+    flex: 3;
+    float: left;
+    width: 70%;
+}
+
+.more_stuff {
+    display: inline-block;
+    height: auto;
+}
+
+h2 {
+    color: gray;
+    text-decoration: none;
+    font: Arial;
+}
+
+p {
+    text-align: center;
+}
+
+.more_stuff {
+    height: auto;
+}
